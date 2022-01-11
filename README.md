@@ -9,7 +9,7 @@ Both players start with 3 lives. They lose a life if they mis-answer a question.
 The game doesn’t end until one of the players loses all their lives. At this point, the game should announce who won and what the other player’s score is.
 
 ## Command Line:
-!['cli-example-prompt-math-game-ruby']
+!['cli-example-prompt-math-game-ruby']https://github.com/NehaYadav903/TwO-O-Player-Math-Game/blob/1488905fb81b74ad66445b823be401cc23d19bef/Docs/game.png
 
 ### Points Considered While Buidling the Game
   * Nouns extraction for Classes
